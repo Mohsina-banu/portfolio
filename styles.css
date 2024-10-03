@@ -10,23 +10,8 @@ body{
 }
 h3{
     color: blueviolet;
-    background-color:antiquewhite;
-}
-#big{
-    display: flex;
-    flex-direction: row;
-    flex-flow: wrap;
-    flex-wrap: row;
-}
-h4{
-    display: flex;
-    justify-content: center;
+    
 }
 h1{
     color: blueviolet;
-}
-.information{
-    display: flex;
-    justify-content:right;
-    flex-direction: row;
 }
