@@ -11,4 +11,19 @@ body{
 }
 h3{
     color: blueviolet;
+    background-color: black;
+}
+#big{
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    flex-flow: row wrap;
+    flex-wrap: wrap;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: blueviolet;
 }
