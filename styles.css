@@ -4,21 +4,19 @@ body{
 #banu{
     height: 200px;
     width: 200px;
-    margin-left: 100%;
     border-radius:0%;
     margin: 0%;
     border-radius: 100%;
 }
 h3{
     color: blueviolet;
-    background-color: black;
+    background-color:antiquewhite;
 }
 #big{
     display: flex;
-    justify-content:center;
     flex-direction: row;
-    flex-flow: row wrap;
-    flex-wrap: wrap;
+    flex-flow: wrap;
+    flex-wrap: row;
 }
 h4{
     display: flex;
@@ -26,4 +24,9 @@ h4{
 }
 h1{
     color: blueviolet;
+}
+.information{
+    display: flex;
+    justify-content:right;
+    flex-direction: row;
 }
